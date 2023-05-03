@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there!!!
+### Who am I?
+
+I started programming coputers with BASIC when I was 13 years old and I have dabbled in it ever since. I'm primarily working with Python, C# and web development.
+
+
 
 <!--
 **echerron/echerron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
